@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4483DF711D199AE700BC5219 /* OAuth2CodeGrantJawbone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4483DF701D199AE700BC5219 /* OAuth2CodeGrantJawbone.swift */; };
+		4483DF721D199AE700BC5219 /* OAuth2CodeGrantJawbone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4483DF701D199AE700BC5219 /* OAuth2CodeGrantJawbone.swift */; };
+		4483DF731D199AE700BC5219 /* OAuth2CodeGrantJawbone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4483DF701D199AE700BC5219 /* OAuth2CodeGrantJawbone.swift */; };
 		6598544E1C5B3C9500237D39 /* OAuth2+tvOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6598543F1C5B3B4000237D39 /* OAuth2+tvOS.swift */; };
 		6598544F1C5B3C9C00237D39 /* OAuth2.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEDB8640193FAB9200C4EEA1 /* OAuth2.swift */; };
 		659854501C5B3C9C00237D39 /* OAuth2Base.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEF47D2A1B1E3FDD0057D838 /* OAuth2Base.swift */; };
@@ -132,6 +135,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4483DF701D199AE700BC5219 /* OAuth2CodeGrantJawbone.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OAuth2CodeGrantJawbone.swift; sourceTree = "<group>"; };
 		6598543F1C5B3B4000237D39 /* OAuth2+tvOS.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "OAuth2+tvOS.swift"; path = "Sources/tvOS/OAuth2+tvOS.swift"; sourceTree = SOURCE_ROOT; };
 		659854461C5B3BEA00237D39 /* OAuth2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = OAuth2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		65EC05DF1C9050CB00DE9186 /* OAuth2KeychainAccount.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OAuth2KeychainAccount.swift; sourceTree = "<group>"; };
@@ -239,6 +243,7 @@
 				EE44F691194F2C7D0094AB8B /* OAuth2CodeGrant.swift */,
 				EEACE1DE1A7E8FC1009BF3A7 /* OAuth2CodeGrantFacebook.swift */,
 				EEC6D57B1C2837EA00FA9B1C /* OAuth2CodeGrantLinkedIn.swift */,
+				4483DF701D199AE700BC5219 /* OAuth2CodeGrantJawbone.swift */,
 				EE1391D91AC5B41A002C7B18 /* OAuth2CodeGrantBasicAuth.swift */,
 				EE86C4641C48F6AC00B7D486 /* OAuth2CodeGrantNoTokenType.swift */,
 				EE5F4F851B19114D00DB38B3 /* OAuth2ClientCredentials.swift */,
@@ -541,6 +546,7 @@
 			files = (
 				659854591C5B3CA700237D39 /* OAuth2ClientCredentials.swift in Sources */,
 				6598545E1C5B3CAB00237D39 /* extensions.swift in Sources */,
+				4483DF731D199AE700BC5219 /* OAuth2CodeGrantJawbone.swift in Sources */,
 				659854541C5B3CA700237D39 /* OAuth2CodeGrant.swift in Sources */,
 				659854571C5B3CA700237D39 /* OAuth2CodeGrantBasicAuth.swift in Sources */,
 				659854531C5B3CA700237D39 /* OAuth2ImplicitGrant.swift in Sources */,
@@ -575,6 +581,7 @@
 				EE86C4661C48F6AC00B7D486 /* OAuth2CodeGrantNoTokenType.swift in Sources */,
 				EEF47D2C1B1E3FDD0057D838 /* OAuth2Base.swift in Sources */,
 				EEC49F321C9BF22400989A18 /* OAuth2AuthRequest.swift in Sources */,
+				4483DF721D199AE700BC5219 /* OAuth2CodeGrantJawbone.swift in Sources */,
 				EEC6D57D1C2837EA00FA9B1C /* OAuth2CodeGrantLinkedIn.swift in Sources */,
 				EE79F6551BFA93D900746243 /* OAuth2AuthConfig.swift in Sources */,
 				EEACE1D51A7E8DE8009BF3A7 /* OAuth2.swift in Sources */,
@@ -605,6 +612,7 @@
 				DD0CCBAD1C4DC83A0044C4E3 /* OAuth2WebViewController.swift in Sources */,
 				EE79F65A1BFAA36900746243 /* OAuth2Error.swift in Sources */,
 				EEC49F311C9BF22400989A18 /* OAuth2AuthRequest.swift in Sources */,
+				4483DF711D199AE700BC5219 /* OAuth2CodeGrantJawbone.swift in Sources */,
 				EE79F6571BFA945C00746243 /* OAuth2ClientConfig.swift in Sources */,
 				EE79F6541BFA93D900746243 /* OAuth2AuthConfig.swift in Sources */,
 				EEF47D2B1B1E3FDD0057D838 /* OAuth2Base.swift in Sources */,
